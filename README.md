@@ -1,6 +1,8 @@
 # CS450
 This repository is used for the CS450 Applied Programming Course mobile app development task
 
+## Motivation App
+
 The Motivation App is designed to deliver daily motivational quotes and messages to users. The app offers a simple and engaging interface, personalized content delivery, and notification features to keep users inspired throughout the day.
 
 Features
